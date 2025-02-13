@@ -33,6 +33,8 @@ Este trabalho apresenta o desenvolvimento de um site voltado para o gerenciament
 
 A tela de login é a primeira interface do site, onde o usuário insere suas credenciais para acessar sua conta, seja como cliente ou administrador.
 
+Instruções de instalação e execução: baixar a os arquivos do banco (abrir no MySql) e clonar o repositório. 
+
 Imagem:(Tela Login)
 
 ![image](https://github.com/user-attachments/assets/40396790-86a4-4f00-9987-9537154d52c7)
